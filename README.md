@@ -24,9 +24,10 @@ This project focuses on predicting diseases at an early stage using machine lear
 ---
 
 ## 📁 Project Files
-- `early_disease_prediction.ipynb` → ML model
+- `Project(1).ipynb` → ML model
 - `Diabetes_prediction.csv` → Dataset
-- `powerbi_dashboard.pbix` → Dashboard file
+- `Project(1)Dashboard.pbix` → Dashboard file
+- `Dashboard(1) img.png` → Dashboard image
 
 ---
 
